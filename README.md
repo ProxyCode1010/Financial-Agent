@@ -103,7 +103,7 @@ You'll be prompted to enter a stock ticker (e.g., AAPL, TSLA, INFY) and get deta
 
 # ⚠️ Disclaimer
 
-'''This project is intended for educational and research purposes only.
+```This project is intended for educational and research purposes only.
 
 The insights are derived from publicly available financial data.
 
