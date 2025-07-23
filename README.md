@@ -1,11 +1,11 @@
-💸 Financial-Agent
+#💸 Financial-Agent
 
 AI-powered financial assistant built using the Phi.AI multi-agent framework, powered by Groq LLM and tools like Yahoo Finance and DuckDuckGo. This CLI-based tool provides real-time financial data, analyst recommendations, and company news directly in your terminal.
 
 
 ---
 
-📌 Features
+#📌 Features
 
 Real-time stock data using Yahoo Finance
 
@@ -23,7 +23,7 @@ Modular multi-agent setup for web + finance
 
 ---
 
-🚀 Getting Started
+#🚀 Getting Started
 
 1. Create a Virtual Environment
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ---
 
-🔐 Set API Key (Environment Variable)
+#🔐 Set API Key (Environment Variable)
 
 To set your OPENAI_API_KEY in terminal:
 
@@ -67,7 +67,7 @@ export OPENAI_API_KEY="your_api_key_here"
 
 ---
 
-🧠 How It Works
+#🧠 How It Works
 
 Finance Agent:
 Fetches stock prices, financials, analyst calls, and news via YFinanceTools
@@ -82,7 +82,7 @@ Uses Groq to combine results from both agents and display them in terminal
 
 ---
 
-▶️ Run the App
+#▶️ Run the App
 
 python main.py
 
@@ -91,7 +91,7 @@ You'll be prompted to enter a stock ticker (e.g., AAPL, TSLA, INFY) and get deta
 
 ---
 
-📚 Data Sources Used
+#📚 Data Sources Used
 
 📊 Yahoo Finance
 
@@ -101,7 +101,7 @@ You'll be prompted to enter a stock ticker (e.g., AAPL, TSLA, INFY) and get deta
 
 ---
 
-⚠️ Disclaimer
+#⚠️ Disclaimer
 
 This project is intended for educational and research purposes only.
 
