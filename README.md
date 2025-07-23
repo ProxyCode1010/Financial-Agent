@@ -103,7 +103,7 @@ You'll be prompted to enter a stock ticker (e.g., AAPL, TSLA, INFY) and get deta
 
 # ⚠️ Disclaimer
 
-This project is intended for educational and research purposes only.
+'''This project is intended for educational and research purposes only.
 
 The insights are derived from publicly available financial data.
 
@@ -111,4 +111,4 @@ This tool is not a substitute for professional investment advice.
 
 Results depend on third-party APIs and should not be used for live trading decisions.
 
-Use at your own risk. The author is not liable for financial loss.
+Use at your own risk. The author is not liable for financial loss.'''
